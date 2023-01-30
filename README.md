@@ -5,6 +5,9 @@ Data diambil dari [Indonesia Public Static Api](https://github.com/yogski/indone
 ## Build from Source
 Dalam direktori proyek, Anda dapat menjalankan:
 
+### `npm install`
+Untuk menginstal dependensi yang diperlukan
+
 ### `npm start`
 Menjalankan aplikasi dalam mode pengembangan.
 
